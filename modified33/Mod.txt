@@ -1,0 +1,3 @@
+AbilityMetaData & worldeditstrings:
+To Uhf1 and 2, added Auuf (unholy frenzy fields)
+Added Inf5 (inner fire mana)
